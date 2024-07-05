@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    background-color: rgb(15, 215, 230);
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 550px;
+    margin: auto;
+    
+
+}
+
+
+*{
+    color: rgb(49, 23, 143);
+    background-image:url(./img6.jpg);
+    
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+    padding: 50;
+    margin-top: 170px;
+    margin-left: 75px;
+}
